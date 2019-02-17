@@ -15,6 +15,7 @@ import {
   createLanguageLink,
   loadFontsForCode,
 } from '../utils/i18n';
+import Footer from '../components/Footer';
 
 const GITHUB_USERNAME = 'fikrikarim';
 const GITHUB_REPO_NAME = 'fikrikarim.com';
@@ -165,6 +166,7 @@ class BlogPostTemplate extends React.Component {
               )}
             </header>
             <div dangerouslySetInnerHTML={{ __html: html }} />
+            {/* 
             <footer>
               <p>
                 <a href={discussUrl} target="_blank" rel="noopener noreferrer">
@@ -176,9 +178,11 @@ class BlogPostTemplate extends React.Component {
                 </a>
               </p>
             </footer>
+            */}
           </article>
         </main>
         <aside>
+          {/* 
           <div
             style={{
               margin: '90px 0 40px 0',
@@ -187,6 +191,7 @@ class BlogPostTemplate extends React.Component {
           >
             <Signup />
           </div>
+          */}
           <h3
             style={{
               fontFamily: 'Montserrat, sans-serif',
@@ -204,7 +209,7 @@ class BlogPostTemplate extends React.Component {
               Fikri Karim
             </Link>
           </h3>
-          <Bio />
+          <Bio noMargin />
           <nav>
             <ul
               style={{
@@ -231,6 +236,7 @@ class BlogPostTemplate extends React.Component {
               </li>
             </ul>
           </nav>
+          <Footer noMargin />
         </aside>
       </Layout>
     );
