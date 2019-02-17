@@ -4,6 +4,7 @@
 **/
 
 .react-toggle {
+  --blue: #00b5e5;
   touch-action: pan-x;
 
   display: inline-block;
@@ -109,13 +110,13 @@
 }
 
 .react-toggle--focus .react-toggle-thumb {
-  -webkit-box-shadow: 0px 0px 3px 2px rgb(255, 167, 196);
-  -moz-box-shadow: 0px 0px 3px 2px rgb(255, 167, 196);
-  box-shadow: 0px 0px 2px 3px rgb(255, 167, 196);
+  -webkit-box-shadow: 0px 0px 3px 2px var(--blue);
+  -moz-box-shadow: 0px 0px 3px 2px var(--blue);
+  box-shadow: 0px 0px 2px 3px var(--blue);
 }
 
 .react-toggle:active .react-toggle-thumb {
-  -webkit-box-shadow: 0px 0px 5px 5px rgb(255, 167, 196);
-  -moz-box-shadow: 0px 0px 5px 5px rgb(255, 167, 196);
-  box-shadow: 0px 0px 5px 5px rgb(255, 167, 196);
+  -webkit-box-shadow: 0px 0px 5px 5px var(--blue);
+  -moz-box-shadow: 0px 0px 5px 5px var(--blue);
+  box-shadow: 0px 0px 5px 5px var(--blue);
 }
