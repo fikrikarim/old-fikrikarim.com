@@ -28,8 +28,9 @@ export default class HTML extends React.Component {
                 }
 
                 var preferredTheme;
+                var defaultTheme = 'dark';
                 try {
-                  preferredTheme = localStorage.getItem('theme');
+                  var preferredTheme = localStorage.getItem('theme') || defaultTheme;
                 } catch (err) { }
 
                 window.__setPreferredTheme = function(newTheme) {
