@@ -1,7 +1,7 @@
 ---
 title: Perjalanan Mendapatkan Magang 13 Bulan di Thailand dan Jerman Sebagai Software Engineer
 date: '2019-01-01'
-spoiler: Kerja keras dulu baru passion, atau passion dulu baru kerja keras?
+spoiler: Dari biologi, bikin startup gagal, sampe nyasar ke luar negeri
 ---
 
 Banyak temen dan saudara yang kaget pas denger saya bakal cuti kuliah setahun buat magang di luar negeri. Banyak dari mereka yang makin kaget pas tau kalo magangnya itu ngga ada hubungannya sama jurusan kuliah saya.
