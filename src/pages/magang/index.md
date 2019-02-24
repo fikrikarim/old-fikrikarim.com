@@ -10,9 +10,7 @@ Sama. Saya juga kaget sebenernya. Disini saya akan mencoba mengingat apa yang sa
 
 Rangkuman: Daftar 20+ lamaran magang di Hacker News, di interview ~6 perusahaan, dapet 2 tawaran magang.
 
----
-
-Latar belakang
+## Latar belakang
 
 Perjalanan nyasar dimulai 3 tahun yang lalu. Selama SMA, kerjaan saya cuma belajar biologi. Sabtu minggu belajar biologi. Di kelas, kadang sambil dengerin guru sambil baca buku biologi. Cabut sekolah 2-3 bulan udah biasa buat karantina pembinaan biologi. Pas masuk sekolah, besoknya ujian integral, saya dapet nilai 10, dari 100.
 
@@ -20,9 +18,7 @@ Dulu saya ada impian buat ikut International Biology Olympiad (IBO) di Denmark. 
 
 Saya lolos sampai tahap 3 pelatihan nasional, dimana cuma sisa 8 orang yang bertahan. Entah kenapa, dari dulu nilai ujian bagian praktikum saya jarang bagusnya. Dan ujian bagian teori yang dari dulu saya andelin kali ini pun cuma biasa biasa aja. Alhasil saya dapet peringkat 6 dari 8 orang, dan belum berhasil buat berangkat ke Denmark.
 
----
-
-Ngga kuliah satu tahun
+## Ngga kuliah satu tahun
 
 Dari dulu saya pengen ke Amerika. Pas kelas 3 SMA saya daftar kuliah ke MIT, Harvard, dan beberapa universitas lain. Ngga ada yang keterima. Pas lulus SMA saya ngga kuliah satu tahun karena pengen nyoba daftar ke Amerika lagi.
 
@@ -38,9 +34,7 @@ Oh iya, waktu itu saya jadinya daftar ke 20 universitas di Amerika. Ngga ada yan
 
 Alhamdulillahnya saya keterima SBMPTN di ITB.
 
----
-
-Masa Kuliah
+## Masa Kuliah
 
 Saya keterima jurusan mikrobiologi di ITB. Karena dulu pas SMA udah sering belajar biologi, saya mikir kuliah ngga bakal begitu berat. Kebiasaan saya di SMA pun muncul lagi. Pas kuliah saya sering bukannya dengerin dosen, malah belajar programming atau ngerjain proyek.
 
@@ -52,9 +46,7 @@ Biar ngga kesepian belajar programming sendiri, saya ikut UKM Unit Robotika (URO
 
 Selama dua tahun kuliah, saya sering ngerjain proyek disela-sela waktu luang buat ngasah kemampuan programming. Salah satunya, kebetulan waktu itu saya jadi pembina asrama, dan sempet bikin aplikasi perizinan asrama make teknologi React.js. Tapi proyek yang paling seru itu pas nyoba bikin startup, keluar 10 juta rupiah, dan gagal.
 
----
-
-Startup gagal
+## Startup gagal
 
 Saat liburan semester ke tingkat 2, saya berniat buat mengisi liburan dengan produktif, cie. Kebetulan ada lomba startup di UI, berhadiah Rp 10.000.000. Saya dan ade saya, Jamal, berniat buat mulai startup selama liburan, dan ngedaftarin startupnya di lomba startup UI tersebut.
 
@@ -74,9 +66,7 @@ Banyak pengguna yang dateng selama sayembara. Bisa dibilang sayembaranya sukses 
 
 Saya ngerasa stress. 10 juta bukan uang yang gampang bagi keluarga kami. Dan uang tersebut lenyap begitu aja. Saya inget saya ngga ngoding beberapa bulan abis itu.
 
----
-
-Hacker News
+## Hacker News
 
 Saya ngga punya Instagram, dan jarang banget buka Facebook dan Twitter. Dari tiga tahun yang lalu saya setiap hari di hp cuma buka Hacker News (news.ycombinator.com). Hacker News (HN) itu isinya update-update berita terbaru seputar software atau hal apapun yang seru secara intelektual. Kalau ada yang liat saya baca sesuatu di HP, 95% itu artikel atau halaman komentar dari HN.
 

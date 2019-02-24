@@ -37,7 +37,9 @@ function SEO({ meta, image, title, description, slug, lang = 'en' }) {
                   title,
                 }
               : {
-                  title: `${siteMetadata.title} — A blog by Fikri Karim`,
+                  title: `${
+                    siteMetadata.title
+                  } — Life, software, biology maybe?`,
                 })}
             meta={[
               {

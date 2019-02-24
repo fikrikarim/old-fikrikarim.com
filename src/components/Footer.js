@@ -11,7 +11,9 @@ class Footer extends React.Component {
           paddingTop: this.props.noMargin ? 0 : rhythm(1),
         }}
       >
-        <span>Just send me emails. I like to talk to you.</span>
+        <span>
+          Tertarik ngobrol? Atau ada komentar atau saran? Langsung email aja :D
+        </span>
         <div style={{ float: 'right' }}>
           <a href="mailto:fk.fikrikarim@gmail.com" target="_top">
             email
