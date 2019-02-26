@@ -23,7 +23,7 @@ class Bio extends React.Component {
           }}
         />
         <p style={{ maxWidth: 310 }}>
-          Personal blog by Fikri Karim. <br />
+          My Indonesian blog. <br />
           Life, software, biology maybe?
         </p>
       </div>
