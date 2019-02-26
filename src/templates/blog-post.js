@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link, graphql } from 'gatsby';
 import get from 'lodash/get';
+import { DiscussionEmbed } from 'disqus-react';
 
 import '../fonts/fonts-post.css';
 import Bio from '../components/Bio';
@@ -131,6 +132,12 @@ class BlogPostTemplate extends React.Component {
       `https://fikrikarim.com${enSlug}`
     )}`;
 
+    const disqusShortname = 'fikrikarim';
+    const disqusConfig = {
+      identifier: post.id,
+      title: post.frontmatter.title,
+    };
+
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
@@ -192,6 +199,7 @@ class BlogPostTemplate extends React.Component {
             <Signup />
           </div>
           */}
+          <DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />
           <h3
             style={{
               fontFamily: 'Montserrat, sans-serif',
