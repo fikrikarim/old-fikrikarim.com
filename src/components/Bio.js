@@ -24,7 +24,7 @@ class Bio extends React.Component {
         />
         <p style={{ maxWidth: 310 }}>
           My Indonesian blog. <br />
-          Life, software, biology maybe?
+          Tulisan baru setiap ada tulisan baru.
         </p>
       </div>
     );
