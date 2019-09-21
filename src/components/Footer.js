@@ -15,8 +15,8 @@ class Footer extends React.Component {
           Tertarik ngobrol? Atau ada komentar atau saran? Langsung email aja :D
         </span> */}
         <div style={{ float: 'left' }}>
-          <a href="cv">CV</a> &bull;
-          <a href="portfolio">Portfolio</a>
+          <a href="/cv">CV</a> &bull;
+          <a href="/portfolio">Portfolio</a>
         </div>
         <div style={{ float: 'right' }}>
           <a href="mailto:fk.fikrikarim@gmail.com" target="_top">
