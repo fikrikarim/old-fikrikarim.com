@@ -6,6 +6,7 @@ import Footer from '../components/Footer';
 import { graphql } from 'gatsby';
 
 import Kbri from '../components/portfolio/Kbri';
+import Belikambing from '../components/portfolio/Belikambing';
 
 class Portfolio extends React.Component {
   render() {
@@ -18,6 +19,7 @@ class Portfolio extends React.Component {
             <h1>Portfolio</h1>
 
             <Kbri />
+            <Belikambing />
           </main>
           <Footer noMargin />
         </Layout>

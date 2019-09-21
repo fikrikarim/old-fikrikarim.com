@@ -8,7 +8,7 @@ import kbri_4 from '../../assets/portfolio/kbri_4.png';
 export default function Kbri() {
   return (
     <div>
-      <h2 style={{ marginBottom: 0 }}>
+      <h2 style={{ marginBottom: 0 }} id="attendance">
         Attendance System for Indonesian Embassy
       </h2>
 
@@ -20,11 +20,11 @@ export default function Kbri() {
         Country's VIPs including 39 ambassadors.
       </p>
 
-      <img src={kbri_1} />
       <p>
         The application is used by admins on the receptionist table. After
         logging in, admins choose the event they are working on.
       </p>
+      <img src={kbri_1} />
       <p>
         Then, admins scan the invitation card of each guest using barcode
         scanner.
