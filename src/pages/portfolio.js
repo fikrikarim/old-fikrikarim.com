@@ -19,6 +19,23 @@ class Portfolio extends React.Component {
           <main>
             <h1>Portfolio</h1>
 
+            <h3>Projects:</h3>
+            <ul>
+              <li>
+                <a href="#permission">Dormitory Permission App</a>
+              </li>
+              <li>
+                <a href="#attendance">
+                  Attendance System for Indonesian Embassy
+                </a>
+              </li>
+              <li>
+                <a href="#belikambing">
+                  Belikambing - Marketplace for buying and selling livestocks
+                </a>
+              </li>
+            </ul>
+
             <Permission />
             <Kbri />
             <Belikambing />
