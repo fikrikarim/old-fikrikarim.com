@@ -4,7 +4,7 @@ date: '2017-08-19'
 spoiler: Kerja keras dulu baru passion, atau passion dulu baru kerja keras?
 ---
 
-Ketika lagi nentuin jurusan di SMA atau pas daftar kuliah, kita pasti sering dengar nasihat, "ikutin aja passion lu dimana," . Nasihat tersebut terlihat sangat benar. Tapi disini menurut gua ada kesalahan besar.
+Ketika lagi nentuin jurusan di SMA atau pas daftar kuliah, kita pasti sering dengar nasihat, "Ikutin aja passion lu dimana." Nasihat tersebut terlihat sangat benar. Tapi disini menurut gua ada kesalahan besar.
 
 ## Sukses datang dari passion, atau passion datang dari sukses?
 

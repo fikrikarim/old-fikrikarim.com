@@ -28,7 +28,7 @@ Karena masih banyak waktu luang, saya mulai belajar programming. Dari HTML, CSS,
 
 Setelah berhari hari googling buat nyari bahasa programman atau web framework yang bagus buat belajar, saya memutuskan untuk belajar bahasa Ruby, dan web framework Ruby on Rails, setelah baca baca katanya Ruby itu lumayan mudah buat pemula, dan kalo make Ruby on Rails itu kita bisa bikin aplikasi web dengan cepet, dan Ruby on Rails ini juga dipake di banyak startup-startup gede sekarang.
 
-Selama setahun itu saya sering saya sering ilang arah, bukannya fokus belajar Ruby on Rails, malah mulai belajar NodeJS, Express, atau bahasa pemrogramman lain. Karena fokusnya terlalu luas, saya berasa di tahun itu belum mencapai sesuatu yang keren.
+Selama setahun itu saya sering ilang arah, bukannya fokus belajar Ruby on Rails, malah mulai belajar NodeJS, Express, atau bahasa pemrogramman lain. Karena fokusnya terlalu luas, saya berasa di tahun itu belum mencapai sesuatu yang keren.
 
 Oh iya, waktu itu saya jadinya daftar ke 20 universitas di Amerika. Ngga ada yang diterima. Kalo ngeliat temen-temen yang berhasil kesana, kebanyakan dari mereka punya medali dari olimpiade internasional, atau punya pengalaman lain yang senilai. Karena saya belum berhasil ke Denmark, dan ngga punya pengalaman lain, saya belum berhasil ke Amerika.
 
