@@ -35,8 +35,8 @@ export default function Belikambing() {
       <p>
         We were a three-person team, with I as the developer. We built this as a
         startup. We have legal entity. We launched and sold a couple of
-        livestocks. I quit on July 2019 when my university period started, and
-        because I wanted to build another project.
+        livestocks. I quit on July 2019 because I wanted to build another
+        project, and my univesity period started :D.
       </p>
 
       <p>

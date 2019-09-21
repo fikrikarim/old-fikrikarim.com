@@ -5,6 +5,7 @@ import get from 'lodash/get';
 import Footer from '../components/Footer';
 import { graphql } from 'gatsby';
 
+import Permission from '../components/portfolio/Permission';
 import Kbri from '../components/portfolio/Kbri';
 import Belikambing from '../components/portfolio/Belikambing';
 
@@ -18,6 +19,7 @@ class Portfolio extends React.Component {
           <main>
             <h1>Portfolio</h1>
 
+            <Permission />
             <Kbri />
             <Belikambing />
           </main>
