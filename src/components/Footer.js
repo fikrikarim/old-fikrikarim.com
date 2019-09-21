@@ -11,12 +11,14 @@ class Footer extends React.Component {
           paddingTop: this.props.noMargin ? 0 : rhythm(1),
         }}
       >
-        <span>
+        {/* <span>
           Tertarik ngobrol? Atau ada komentar atau saran? Langsung email aja :D
-        </span>
+        </span> */}
+        <div style={{ float: 'left' }}>
+          <a href="Resume_of_Fikri_Karim.pdf">CV</a> &bull;{' '}
+          <a href="portfolio">Portfolio</a>
+        </div>
         <div style={{ float: 'right' }}>
-          <a href="Resume_of_Fikri_Karim.pdf">CV</a> &bull;
-          <a href="portfolio">Portfolio</a> &bull;{' '}
           <a href="mailto:fk.fikrikarim@gmail.com" target="_top">
             Email
           </a>{' '}
