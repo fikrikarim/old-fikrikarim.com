@@ -7,7 +7,7 @@ class Cv extends React.Component {
       <Helmet>
         <meta
           http-equiv="refresh"
-          content={'0;url=Resume_of_Fikri_Karim.pdf'}
+          content={'0;url=/Resume_of_Fikri_Karim.pdf'}
         />
       </Helmet>
     );
