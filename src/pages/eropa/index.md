@@ -24,6 +24,10 @@ Ternyata isi rumahnya asik asik banget. Ada yang dari Turki, Pakistan, Moroko, V
 
 *Bareng sama bocah rumah ke Austria*
 
+![Snowman](snowman.jpg)
+
+*Perang salju dan ngebuat boneka salju atau snowman, merek spidol*
+
 Kalo mau beli makanan dari luar disana mahal banget. Yang paling murah itu kebab, sekitaran €4-€5, atau Rp 80.000 an sekali makan. Untungnya ayah gua maksa ngebawain rice cooker. Akhirnya selama di sana makan nasi telor garem setiap hari, dan ke tempat kerja pun bawa bekel biar tetep bisa makan akhir bulan.
 
 Temen-temen rumah selalu ngatain gua karena makan nasi tiap hari. Gua dikatain matanya sipit karena makan nasi. Tapi setelah kita sering makan malem bareng, dan sharing makanan, mereka jadi pada doyan makan nasi. Ada yang bilang sebulan dia disana dia makan nasi lebih banyak daripada seumur hidupnya. Ada yang pas gua balik ke indo dia mau beli rice cooker sendiri haha.
@@ -130,7 +134,7 @@ Pas sampe sini baru berasa kalo gua lagi jalan-jalan di Eropa. Rasanya ngeliat b
 
 ### Florence
 
-Dari Pisa pas hari itu juga langsung lanjut ke Florence. Gua ke kota ini karena Florence itu kota pusat pas zaman Rennaisance. Disana muter-muter museum ngeliat hasil karya Leonardo da Vinci dan kawan-kawan. Menurut gua kalo orang punya jiwa seni wajib banget kesini sih, siapa tau bisa ngeliat apa yang membuat karya karya tersebut dibilang legendaris sampe sekarang. Sayangnya gua disana kurang bisa mengapresiasi karena jiwa seni gua entah masih kemana.
+Dari Pisa pas hari itu juga langsung lanjut ke Florence. Gua ke kota ini karena Florence itu kota pusat pas zaman Rennaisance. Disana muter-muter museum ngeliat hasil karya Leonardo da Vinci dan kawan-kawan. Menurut gua kalo orang punya jiwa seni wajib banget kesini sih, siapa tau bisa ngeliat apa yang membuat karya karya tersebut dibilang legendaris sampe sekarang.
 
 ![Florence](florence.jpg)
 
@@ -150,5 +154,88 @@ Empat tahun yang lalu ada lomba yang kalo kita bisa lolos seleksi bakal berangka
 
 ![Aarhus](aarhus.jpg)
 
-*Masyaallah. Maaf kalo muka gua gede banget.*
+*Masyaallah. Muka gua gede banget ya.*
 
+### Copenhagen
+
+![Copenhagen](copenhagen.jpg)
+
+*Karena kemarin sambil jalan-jalan sambil ngerjain proyek. Kadang mampir perpus-perpus disana*
+
+Kemarin ke Copenhagen karena tanggung aja karena udah dari Aarhus. Kota nya damai banget, ngga serame ibukota ibukota di Eropa lain. Mayan lah udah pernah nyobain negara Scandinavia.
+
+### Brussel
+
+Dari Copenhagen dapet tiket murah ke Brussel, Belgia. Disini terkenalnya ada markas European Union, dan ada Mannekin Pis, patung bocah pipis. Seperti kata orang-orang, Mannekin Pis biasa banget. Sebenernya gua nulis ini salah juga sih, karena membantu membuat Mannekin Pis terkenal walaupun ngga ada yang spesial haha.
+
+![Brussel](brussel.jpg)
+
+*Mannekin Pis. Aslinya ngga jauh beda dari foto.*
+
+### Den Haag
+
+Setelah beberapa minggu perjalan sendiri, di kota ini gua udah janjian jalan-jalan sama Alief, temen SD gua. Mantepnya Alief nih punya kenalan guru di Den Haag. Jadi selama 2 hari kita muter-muter Den Haag. Disini banyak banget orang Indo. Kedutaan Indo aja adanya di Den Haag, bukan di Amsterdam. Selama kita muter-muter disana pasti ketemu orang Indo di setiap sudut kota.
+
+![Den Haag Together](den_haag_together.jpg)
+
+![Den Haag](den_haag.jpg)
+
+*Kata emak gua difoto ini gua kayak artis. Padahal jasnya dapet gratisan dari mesjid karena kemaren dingin banget disana dan gua cuma bawa kaos.*
+
+### Amsterdam
+
+Dari Den Haag gua sama Alief lanjut ke Amsterdam. Disini gua sama Alief nyewa sepeda buat sehari. Menyusuri kanal-kanal kecil. Menghirup asap ganja. Naik ferry melintasi sungai. Foto-foto make sepeda. Menghirup asap ganja lagi. Ke Red Light District pas siang-siang. Ke Mesjid buat tobat haha.
+
+![Amsterdam](amsterdam.jpg)
+
+*Puluhan kali nyoba video sambil lepas tangan ngga ada yang bagus. Yang ada hampir nyebur sungai.*
+
+### Paris
+
+Di kota-kota lain gua cuma 1-2 hari. Di Paris 2.5 hari. Dan kuranggggg. Banyak banget yang pengen diliat. Kotanya gede banget. Di Eiffel aja kemarin seharian cuma duduk disana ngga bosen-bosen. Pas naik Eiffel diatas seharian ngga bosen bosen. Museum Louvre kalo mau mantengin Mona Lisa nya aja boleh sehari kalo mau dan ngga diusir satpam. Belum koleksi-koleksi Louvre yang lain. Belum tempat-tempat lain kayak Versailles.
+
+Dan rada sedih karena kemarin kesini sendiri haha. Kalo diberi kesempatan sama Allah pengen kesini lagi 😉
+
+![Eiffel 1](eiffel1.jpg)
+![Eiffel 2](eiffel2.jpg)
+![Eiffel 3](eiffel3.jpg)
+
+*Tinggal di Jerman 6 bulan kadang lupa kalo lagi di Eropa. Pas jalan-jalan kesini baru inget lagi. #kurangbersyukur*
+
+![Mona Lisa](mona_lisa.jpg)
+
+*Bibi Mona Lisa dilihat dari jarak beberapa meter*
+
+### Barcelona
+
+Kemarin sebenernya tiket ke Barcelona mahal banget. Kalo tiket pesawat lain <20 euro. Ke Barcelona ~50 euro. Tapi apa daya pengen merasakan semua negara besar di Eropa.
+
+Yang paling berkesan pas di Barcelona itu ketemu cewe Australia namanya Amanda. 
+
+Selama perjalan gua ngga pernah ngajakin ngobrol orang buat ngajakin jalan-jalan atau makan bareng. Waktu di Barcelona gua satu kamar hostel sama Amanda dan satu cewe lain dari Chile. Abis kenalan ngobrol-ngobrol biasa, tiba-tiba si Amanda dengan gampangnya ngajakin makan malem gua dan Cewe Chile itu.
+
+Gua langsung reflek nolak dong, bilang mohon maaf gua udah ada rencana malem ini (rencana ke mesjid doang si haha). Nah cewe Chile ini nerima. Trus gua mikir, "yeelah sekali-kali hang out bareng lah." Yaudah gua terima, dan kita turun ke lobby buat siap-siap.
+
+Sampe di lobby, ada cowo baru dateng, baru check-in di hostel. Trus si Amanda langsung nyamperin cowo ini, ngobrol-ngobrol nanyain dari mana, abis itu diajakin makan juga. Cowo Jerman ini langsung nolak juga kan kayak gua. Abis itu gua cerita ke Cowo Jerman kalo gua juga baru tiba-toba diajak si Amanda ini. Akhirnya dia mau ikut. Malem itu kita makan bareng trus muter muter Barcelona.
+
+Gua kagum banget sama si Amanda ini. Bisa se ekstrovert dan se "gaul" itu, sambil bisa ngerasain perasaan orang lain. Gua yang tadinya kesepian selama perjalanan, jadi punya temen ngobrol walaupun cuma semalem itu.
+
+![guidi](guidi.jpg)
+
+*Guidi*
+
+![Pantai Barcelona](pantai_barcelona.jpg)
+
+*Pantai Barcelona.*
+
+### Zürich
+
+Dari Barcelona terbang lagi ke Zürich, Swiss. Kota nya okeee banget. Kota destinasi terakhir ngga mengecewakan. Bersih, modern, damai, tentram, sejahtera. Disini berasa banget orang-orangnya punya standar hidup yang tinggi. Satu yang disayangkan adalah apa-apa lebih mahal. Döner kebab di kota lain 3-5 euro. Di Zürich bisa 10 euro haha. Tapi harusnya masih seimbang sama gaji yang didapetin sama orang disana.
+
+Salah satu tujuan ke Zürich kemarin itu buat ngeliat ETH Zürich, bisa dibilang universitas nomor satu di Eropa. Dari stasiun, gua jalan ngikutin google maps ke ETH. Naik bukit, muter-muter. Sampe di ETH nya... Keren. Gedungnya mantep. Pemandangan dari kampusnya subhanallah. Akademiknya nomor satu. Gua baru kesana sebagai turis aja udah bangga.
+
+![Zurich](zurich.jpg)
+
+*Pemandangan dari ETH Zürich. Aslinya lebih keren lagi.*
+
+### 
