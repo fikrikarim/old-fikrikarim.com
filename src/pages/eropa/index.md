@@ -1,24 +1,24 @@
 ---
 title: Mendadak Keliling 9 Negara di Eropa
 date: '2019-10-11'
-spoiler: Januari lalu gua dapet kesempatan buat magang di Jerman selama 6 bulan. Beh keren banget masyaallah. Sebenernya dapet magangnya pun mendadak dan ngga terduga-duga sama sekali. Tapi pas sampe sana terjadi suatu hal yang lebih ngga masuk akal.
+spoiler: Januari lalu gua dapet kesempatan buat magang di Jerman selama 6 bulan. Beh keren masyaallah. Sebenernya dapet magangnya pun mendadak dan ngga terduga-duga sama sekali. Tapi pas sampe sana terjadi suatu hal yang lebih ngga masuk akal.
 ---
 
-Januari lalu gua dapet kesempatan buat magang di Jerman selama 6 bulan. Beh keren banget masyaallah. Sebenernya dapet magangnya pun mendadak dan ngga terduga-duga sama sekali. Tapi pas sampe sana terjadi suatu hal yang lebih ngga masuk akal.
+Januari lalu gua dapet kesempatan buat magang di Jerman selama 6 bulan. Beh keren masyaallah. Sebenernya dapet magangnya pun mendadak dan ngga terduga-duga sama sekali. Tapi pas sampe sana terjadi suatu hal yang lebih ngga masuk akal.
 
 ## München
 
 Sampe di München tanggal 10 Januari 2019 jam 7 pagi. Tapi anehnya langit masih gelap gurita. Pas di pesawat dikasih tau sama orang disebelah kalo bisa pas landing udah siap jaket tebel dan celana dobel. Pas turun pesawat, wuow, salju. 
 
-Waktu itu ternyata lagi tebel tebelnya salju di München. Geret geret koper dari stasiun kereta ke rumah pun susah banget, karena saljunya hampir selutut.
+Waktu itu ternyata lagi tebel tebelnya salju di München. Geret geret koper dari stasiun kereta ke rumah pun susah, karena saljunya hampir selutut.
 
 ![Salju di depan rumah](salju.gif)
 
 *Salju depan rumah*
 
-Di München terkenal susah banget nyari tempat tinggal. Banyak yang bilang di sana lebih susah nyari rumah daripada nyari kerjaan. Untungnya sebelum kesana udah dapet kamar di rumah yang isinya anak anak magang juga, walaupun perusahaan dan negara asalnya beda beda.
+Di München terkenal susah nyari tempat tinggal. Banyak yang bilang di sana lebih susah nyari rumah daripada nyari kerjaan. Untungnya sebelum kesana udah dapet kamar di rumah yang isinya anak anak magang juga, walaupun perusahaan dan negara asalnya beda beda.
 
-Ternyata isi rumahnya asik asik banget. Ada yang dari Turki, Pakistan, Moroko, Venezuela, dan Tunisia. Baru minggu-minggu pertama, gua lagi tidur tiba tiba ditarik ke tempat bowling. Makan malem bareng, bikin boneka salju bareng, jalan-jalan ke Austria bareng, main uno bareng, jalan ke Praha bareng, mereka ke ke bar dan clubbing bareng, gua ngga ikut haha.
+Ternyata isi rumahnya asik asik abis. Ada yang dari Turki, Pakistan, Moroko, Venezuela, dan Tunisia. Baru minggu-minggu pertama, gua lagi tidur tiba tiba ditarik ke tempat bowling. Makan malem bareng, bikin boneka salju bareng, jalan-jalan ke Austria bareng, main uno bareng, jalan ke Praha bareng, mereka ke ke bar dan clubbing bareng, gua ngga ikut haha.
 
 ![Temen temen rumah](housemates.jpg)
 
@@ -28,27 +28,26 @@ Ternyata isi rumahnya asik asik banget. Ada yang dari Turki, Pakistan, Moroko, V
 
 *Perang salju dan ngebuat boneka salju atau snowman, merek spidol*
 
-Kalo mau beli makanan dari luar disana mahal banget. Yang paling murah itu kebab, sekitaran €4-€5, atau Rp 80.000 an sekali makan. Untungnya ayah gua maksa ngebawain rice cooker. Akhirnya selama di sana makan nasi telor garem setiap hari, dan ke tempat kerja pun bawa bekel biar tetep bisa makan akhir bulan.
+Kalo mau beli makanan dari luar disana mahal. Yang paling murah itu kebab, sekitaran €4-€5, atau Rp 80.000 an sekali makan. Untungnya ayah gua maksa ngebawain rice cooker. Akhirnya selama di sana makan nasi telor garem setiap hari, dan ke tempat kerja pun bawa bekel biar tetep bisa makan akhir bulan.
 
 Temen-temen rumah selalu ngatain gua karena makan nasi tiap hari. Gua dikatain matanya sipit karena makan nasi. Tapi setelah kita sering makan malem bareng, dan sharing makanan, mereka jadi pada doyan makan nasi. Ada yang bilang sebulan dia disana dia makan nasi lebih banyak daripada seumur hidupnya. Ada yang pas gua balik ke indo dia mau beli rice cooker sendiri haha.
 
-Karena beberapa dari mereka dari negara muslim juga, salah satu yang paling seru itu pas Ramadhan. Puasa bareng, buka puasa bareng. Cewe-cewe Moroko dan Tunisia nya jago banget masak. Menu bukaannya ada 7 macam lebih. Makanan khas Moroko dan Tunisia. Untungnya gua juga jago masak. Masak nasi make rice cooker.
+Karena beberapa dari mereka dari negara muslim juga, salah satu yang paling seru itu pas Ramadhan. Puasa bareng, buka puasa bareng. Cewe-cewe Moroko dan Tunisia nya jago masak. Menu bukaannya ada 7 macam lebih. Makanan khas Moroko dan Tunisia. Untungnya gua juga jago masak. Masak nasi make rice cooker.
 
 ![Makanan rumah](makanan_rumah.jpg)
 
-*Buka puasa bersama. Untungnya nasi gua ngga harus keluar*
+*Buka puasa bersama*
 
 ## Magang
 
 Dari rumah ke kantor sekitaran 35 menit. Naik u-bahn U6, turun Marineplatz, tengah kota 
 München, lanjut naik tram nomor 21 ke Leonrodplatz.
 
-Gua dapet magang di startup namanya Blik. Disana kita bikin alat tracking yang di tempelin ke kontener. Target pasarnya produsen produsen yang punya gudang yang gede banget. Jadi dengan alat kita mereka jadi lebih mudah taunya kontener mereka lagi ada dimana. Jumlahnya berapa. Kapan mereka pindah dari gudang satu ke gudang lainnya.
+Gua dapet magang di startup namanya Blik. Disana kita bikin alat tracking yang di tempelin ke kontener. Target pasarnya produsen produsen yang punya gudang yang gede. Jadi dengan alat kita mereka jadi lebih mudah taunya kontener mereka lagi ada dimana. Jumlahnya berapa. Kapan mereka pindah dari gudang satu ke gudang lainnya.
 
-Disana gua ditempatin di bagian frontend, bareng Christoper Hogg, anak UK yang baru beres S2 disana. Chris orangnya baik banget. Hari pertama gua disana gua diajarin dari awal banget tentang kode kode udah ada. Untungnya karena mereka make React.js, dan gua udah beberapa kali bikin proyek make React.js juga, jadi gua udah familiar sama kode yang ada.
+Disana gua ditempatin di bagian frontend, bareng Christoper Hogg, anak UK yang baru beres S2 disana. Chris orangnya amat baik. Hari pertama gua disana gua diajarin dari awal tentang kode kode udah ada. Untungnya karena mereka make React.js, dan gua udah beberapa kali bikin proyek make React.js juga, jadi gua udah familiar sama kode yang ada.
 
 Proyek proyek yang dikerjain disana lumayan seru. Di awal awal ngebenerin bug-bug yang udah ada lama di aplikasinya. Trus ningkatin performa aplikasinya dengan ganti beberapa struktur program. Bikin tes tes otomatis untuk mempermudah ngoding di kemudian hari.
-
 
 ![Meja di kantor](meja_kantor.jpg)
 
@@ -81,7 +80,7 @@ Lalu salah satu foundernya bilang gini kira kira,
 
 Atmosfir di kantor pun jadi sangat aneh.
 
-Untungnya, perlindungan pekerja di Jerman itu baik banget, dan founder-foundernya pun sangat peduli sama karyawannya. Untuk karyawan tetap, mereka dikasih waktu 3 bulan untuk nyari kerjaan baru. Dan selama 3 bulan itu, kalo belum dapet kerja, bakal tetep dapet gaji utuh, walaupun udah ngga kerja lagi.
+Untungnya, perlindungan pekerja di Jerman itu baik, dan founder-foundernya pun sangat peduli sama karyawannya. Untuk karyawan tetap, mereka dikasih waktu 3 bulan untuk nyari kerjaan baru. Dan selama 3 bulan itu, kalo belum dapet kerja, bakal tetep dapet gaji utuh, walaupun udah ngga kerja lagi.
 
 Untuk kasus magang gua, mereka juga ngga bisa mutus satu arah dari pihak sana aja. Jadi mereka nawarin 3 pilihan:
 1. Gua mutusin kontrak magang dari pihak guanya, dan dibeliin tiket pulang ke Indonesia. Mayan lah 8jt.
@@ -100,7 +99,7 @@ Kapan lagi jalan-jalan di Eropa dan dibayar setiap bulannya hehe.
 
 ## Jalan-jalan
 
-Sebelum jalan-jalan, gua mutusin buat tinggal ke Berlin selama sebulan, untuk ngehemat biaya rental, dan biar fokus Bulan Ramadhan. Disana gua tinggal bareng Affan, temen SMA gua yang lebih jayus. Di Berlin ada Mesjid Indonesia namanya IWKZ, yang nyaman banget buat ngapa-ngapain.
+Sebelum jalan-jalan, gua mutusin buat tinggal ke Berlin selama sebulan, untuk ngehemat biaya rental, dan biar fokus Bulan Ramadhan. Disana gua tinggal bareng Affan, temen SMA gua yang lebih jayus. Di Berlin ada Mesjid Indonesia namanya IWKZ, yang nyaman buat ngapa-ngapain.
 
 ![Suasana lebaran](suasana_lebaran.jpg)
 
@@ -110,11 +109,11 @@ Sebelum jalan-jalan, gua mutusin buat tinggal ke Berlin selama sebulan, untuk ng
 
 Setelah ngehemat uang sebulan selama Ramadhan, waktunya beli tiket buat keliling eropa.
 
-Di Eropa ada maskapai yang terkenal murah banget, namanya Ryanair. Tiket pesawat gua dari Berlin ke Milan itu cuma 15 euro atau sekitar 230rb rupiah. Jauh lebih murah dari tiket pesawat di Indonesia ngga sih. Tiket bus atau kereta pun ngga ada yang bisa nyaingin.
+Di Eropa ada maskapai yang terkenal murah, namanya Ryanair. Tiket pesawat gua dari Berlin ke Milan itu cuma 15 euro atau sekitar 230rb rupiah. Jauh lebih murah dari tiket pesawat di Indonesia ngga sih. Tiket bus atau kereta pun ngga ada yang bisa nyaingin.
 
 Tapi kekurangannya, cuma boleh bawa satu tas gemblok yang kecil. Kalo mau nambah bagasi nambah ~20 euro. Lebih mahal dari harga tiketnya. Yaudah daripada nambah ~20 euro setiap terbang, jadi selama keliling eropa gua cuma bawa 6 kaos. 
 
-Buat nyari tiket pesawat termurah, kemarin gua make Skyscanner dan Google Flight. Karena rutenya bebas banget, jadi biasanya gua nyari tiket termurah yang terbang dari kota itu. Misalkan karena awalnya dari Berlin, kemarin nyari tiket termurah dari Berlin untuk tanggal tertentu. Waktu itu tiket termurah dari Berlin itu ke Milan. Jadi perjalanan keliling eropa gua bermulai dari Milan.
+Buat nyari tiket pesawat termurah, kemarin gua make Skyscanner dan Google Flight. Karena rutenya bebas, jadi biasanya gua nyari tiket termurah yang terbang dari kota itu. Misalkan karena awalnya dari Berlin, kemarin nyari tiket termurah dari Berlin untuk tanggal tertentu. Waktu itu tiket termurah dari Berlin itu ke Milan. Jadi perjalanan keliling eropa gua bermulai dari Milan.
 
 ### Milan
 
@@ -134,7 +133,7 @@ Pas sampe sini baru berasa kalo gua lagi jalan-jalan di Eropa. Rasanya ngeliat b
 
 ### Florence
 
-Dari Pisa pas hari itu juga langsung lanjut ke Florence. Gua ke kota ini karena Florence itu kota pusat pas zaman Rennaisance. Disana muter-muter museum ngeliat hasil karya Leonardo da Vinci dan kawan-kawan. Menurut gua kalo orang punya jiwa seni wajib banget kesini sih, siapa tau bisa ngeliat apa yang membuat karya karya tersebut dibilang legendaris sampe sekarang.
+Dari Pisa pas hari itu juga langsung lanjut ke Florence. Gua ke kota ini karena Florence itu kota pusat pas zaman Rennaisance. Disana muter-muter museum ngeliat hasil karya Leonardo da Vinci dan kawan-kawan. Menurut gua kalo orang punya jiwa seni wajib kesini sih, siapa tau bisa ngeliat apa yang membuat karya karya tersebut dibilang legendaris sampe sekarang.
 
 ![Florence](florence.jpg)
 
@@ -142,9 +141,9 @@ Dari Pisa pas hari itu juga langsung lanjut ke Florence. Gua ke kota ini karena 
 
 ### Roma
 
-Dari Florence naik kereta ke Roma. Roma kece banget. Gua nyesel cuma 2 hari disana. Keliling Colosseum itu makan waktu sehari. Dan di sekitar Colosseum itu banyak tempat historis yang gua ngga sempet ngunjungin kayak Roman Plaza.
+Dari Florence naik kereta ke Roma. Roma kece. Gua nyesel cuma 2 hari disana. Keliling Colosseum itu makan waktu sehari. Dan di sekitar Colosseum itu banyak tempat historis yang gua ngga sempet ngunjungin kayak Roman Plaza.
 
-Untungnya pas disana masih sempet buat ngunjungin Vatikan. Gua baru sadar Vatikan tuh kecil banget. Lebih kecil dari perumahan rumah gua. Orang luar itu cuma bisa masuk bagian museum dan Sistine Chapel dari Vatikan. Colosseum dan Sistine Chapel itu keren abis. Pengen kesana lagi sih suatu hari insyaallah.
+Untungnya pas disana masih sempet buat ngunjungin Vatikan. Gua baru sadar Vatikan tuh kecil. Lebih kecil dari perumahan rumah gua mungkin. Orang luar itu cuma bisa masuk bagian museum dan Sistine Chapel dari Vatikan. Colosseum dan Sistine Chapel itu keren abis. Pengen kesana lagi sih suatu hari insyaallah.
 
 ![Colosseum](colosseum.jpg)
 
@@ -154,7 +153,7 @@ Empat tahun yang lalu ada lomba yang kalo kita bisa lolos seleksi bakal berangka
 
 ![Aarhus](aarhus.jpg)
 
-*Masyaallah. Muka gua gede banget ya.*
+*Masyaallah. Muka gua gede ya.*
 
 ### Copenhagen
 
@@ -162,7 +161,7 @@ Empat tahun yang lalu ada lomba yang kalo kita bisa lolos seleksi bakal berangka
 
 *Karena kemarin sambil jalan-jalan sambil ngerjain proyek. Kadang mampir perpus-perpus disana*
 
-Kemarin ke Copenhagen karena tanggung aja karena udah dari Aarhus. Kota nya damai banget, ngga serame ibukota ibukota di Eropa lain. Mayan lah udah pernah nyobain negara Scandinavia.
+Kemarin ke Copenhagen karena tanggung aja karena udah dari Aarhus. Kota nya damai, ngga serame ibukota ibukota di Eropa lain. Mayan lah udah pernah nyobain negara Scandinavia.
 
 ### Brussel
 
@@ -174,13 +173,13 @@ Dari Copenhagen dapet tiket murah ke Brussel, Belgia. Disini terkenalnya ada mar
 
 ### Den Haag
 
-Setelah beberapa minggu perjalan sendiri, di kota ini gua udah janjian jalan-jalan sama Alief, temen SD gua. Mantepnya Alief nih punya kenalan guru di Den Haag. Jadi selama 2 hari kita muter-muter Den Haag. Disini banyak banget orang Indo. Kedutaan Indo aja adanya di Den Haag, bukan di Amsterdam. Selama kita muter-muter disana pasti ketemu orang Indo di setiap sudut kota.
+Setelah beberapa minggu perjalan sendiri, di kota ini gua udah janjian jalan-jalan sama Alief, temen SD gua. Mantepnya Alief nih punya kenalan guru di Den Haag. Jadi selama 2 hari kita muter-muter Den Haag. Disini sekampung orang Indo. Kedutaan Indo aja adanya di Den Haag, bukan di Amsterdam. Selama kita muter-muter disana pasti ketemu orang Indo di setiap sudut kota.
 
 ![Den Haag Together](den_haag_together.jpg)
 
 ![Den Haag](den_haag.jpg)
 
-*Kata emak gua difoto ini gua kayak artis. Padahal jasnya dapet gratisan dari mesjid karena kemaren dingin banget disana dan gua cuma bawa kaos.*
+*Kata emak gua difoto ini gua kayak artis. Padahal jasnya dapet gratisan dari mesjid karena kemaren dingin disana dan gua cuma bawa kaos.*
 
 ### Amsterdam
 
@@ -192,7 +191,7 @@ Dari Den Haag gua sama Alief lanjut ke Amsterdam. Disini gua sama Alief nyewa se
 
 ### Paris
 
-Di kota-kota lain gua cuma 1-2 hari. Di Paris 2.5 hari. Dan kuranggggg. Banyak banget yang pengen diliat. Kotanya gede banget. Di Eiffel aja kemarin seharian cuma duduk disana ngga bosen-bosen. Pas naik Eiffel diatas seharian ngga bosen bosen. Museum Louvre kalo mau mantengin Mona Lisa nya aja boleh sehari kalo mau dan ngga diusir satpam. Belum koleksi-koleksi Louvre yang lain. Belum tempat-tempat lain kayak Versailles.
+Di kota-kota lain gua cuma 1-2 hari. Di Paris 2.5 hari. Dan kuranggggg. Banyak yang pengen diliat. Kotanya gede. Di Eiffel aja kemarin seharian cuma duduk disana ngga bosen-bosen. Pas naik Eiffel diatas seharian ngga bosen bosen. Museum Louvre kalo mau mantengin Mona Lisa nya aja boleh sehari kalo mau dan ngga diusir satpam. Belum koleksi-koleksi Louvre yang lain. Belum tempat-tempat lain kayak Versailles.
 
 Dan rada sedih karena kemarin kesini sendiri haha. Kalo diberi kesempatan sama Allah pengen kesini lagi 😉
 
@@ -208,7 +207,7 @@ Dan rada sedih karena kemarin kesini sendiri haha. Kalo diberi kesempatan sama A
 
 ### Barcelona
 
-Kemarin sebenernya tiket ke Barcelona mahal banget. Kalo tiket pesawat lain <20 euro. Ke Barcelona ~50 euro. Tapi apa daya pengen merasakan semua negara besar di Eropa.
+Kemarin sebenernya tiket ke Barcelona mahal. Kalo tiket pesawat lain <20 euro. Ke Barcelona ~50 euro. Tapi apa daya pengen merasakan semua negara besar di Eropa.
 
 Yang paling berkesan pas di Barcelona itu ketemu cewe Australia namanya Amanda. 
 
@@ -230,7 +229,7 @@ Gua kagum banget sama si Amanda ini. Bisa se ekstrovert dan se "gaul" itu, sambi
 
 ### Zürich
 
-Dari Barcelona terbang lagi ke Zürich, Swiss. Kota nya okeee banget. Kota destinasi terakhir ngga mengecewakan. Bersih, modern, damai, tentram, sejahtera. Disini berasa banget orang-orangnya punya standar hidup yang tinggi. Satu yang disayangkan adalah apa-apa lebih mahal. Döner kebab di kota lain 3-5 euro. Di Zürich bisa 10 euro haha. Tapi harusnya masih seimbang sama gaji yang didapetin sama orang disana.
+Dari Barcelona terbang lagi ke Zürich, Swiss, sebagai destinasi terakhir. Kota nya okeee banget. Bersih, modern, damai, tentram, sejahtera. Disini berasa orang-orangnya punya standar hidup yang tinggi. Satu yang disayangkan adalah apa-apa lebih mahal. Döner kebab di kota lain 3-5 euro. Di Zürich bisa 10 euro haha. Tapi harusnya masih seimbang sama gaji yang didapetin sama orang disana.
 
 Salah satu tujuan ke Zürich kemarin itu buat ngeliat ETH Zürich, bisa dibilang universitas nomor satu di Eropa. Dari stasiun, gua jalan ngikutin google maps ke ETH. Naik bukit, muter-muter. Sampe di ETH nya... Keren. Gedungnya mantep. Pemandangan dari kampusnya subhanallah. Akademiknya nomor satu. Gua baru kesana sebagai turis aja udah bangga.
 
@@ -238,4 +237,35 @@ Salah satu tujuan ke Zürich kemarin itu buat ngeliat ETH Zürich, bisa dibilang
 
 *Pemandangan dari ETH Zürich. Aslinya lebih keren lagi.*
 
-### 
+### Itung-itungan
+
+Jalan-jalan di suatu kota 1-3 hari, trus naik bis atau pesawat ke kota lain. Untuk pesawat atau bis antar kota biasanya abis 20€. Hati-hati juga kalo beli tiket pesawat murah, kadang dari bandara ke kota nya harus naik kereta/bis lagi, rata-rata kena ~10€.
+
+Hostel nyari yang murah tapi ngga murah-murah banget. 20€ udah nyaman banget kemarin, tinggal pinter milih-milih yang ratingnya dan lokasinya bagus. Tergantung kotanya, kadang gua beli tiket harian buat akses transportasi di kota itu, sekitaran 8€. Tiket masuk museum kadang lumayan mahal. Ada yang 10€. Ada yang harusnya mahal tapi jadi gratis karena masih mahasiswa. Harus pinter-pinter nyari yang ini.
+
+Untuk makan, untungnya gua ngga terlalu suka kulineran, jadi keseringan beli kebab, sekitar 5€ sekali makan. Kalo kata temen gua gua kemarin kuliner kebab Eropa. Kalo lagi ngirit yang gampang beli roti tawar yang gede di supermarket, 2€ bisa kenyang. Kemarin sempet ketemu juga backpacker yang selalu masak, lebih irit lagi.
+
+Kalo di rata-rata, biaya per hari kasarnya:
+
+Hostel: 20€
+Tiket antar kota: 20€
+Tiket dalam kota: 10€
+Tiket museum/entry lain: 10€
+Makan 3x: 15€
+Es krim: 5€
+
+Total: ~70€/hari
+
+Perjalanan kemarin kira-kira 21 hari. 70 x 21 = 1470€. Masyaallahnya gaji disana perbulan bersihnya dapet ~1100€. Karena kemarin udah ngga kerja lagi tapi masih dibayar, masyaallahnya jadi selama 21 hari itu bisa dibilang dibayar buat jalan-jalan.
+
+## Indonesia
+
+Sampe sekarang, gua masih ngerasa perjalanan kemarin itu kayak mimpi.
+
+Kalo menurut gua, perjalanan gua kemarin itu 50% hasil dari usaha gua. Gua mulai belajar programming 4 tahun yang lalu. Sabtu minggu sering dipake buat belajar atau bikin proyek. Pas lagi kuliah biologi pun sambil belajar programming. Ilang duit Rp 10jt buat gaya-gayaan bikin startup. Sampe gua kesel membara makin semangat belajar pas dikatain sama ayah gua, "Fikri, kamu udah belajar programming lama kok belum ada hasilnya."
+
+Dan menurut gua perjalanan gua kemarin itu 100% nya lagi dari Allah. Gua waktu itu iseng-iseng daftar magang karena lagi bosen dikelas pas kuliah. Pas dikasih tes ngoding gampang karena udah pernah ngerjain proyek sebelumnya. Pas interview lancar karena ayah gua udah ngelesin bahasa inggris dari kelas 2 SD. Entah kenapa mereka mau nerima gua yang kuliah beda jurusan. Entah kenapa lagi mereka bangkrut tapi masih bela-belain ngegaji karyawannya.
+
+Kalo lu bingung 50% + 100% lebih dari 100, sama gua juga bingung, tapi pasti itung-itungannya Allah beda. Gua cuma yakin, kerja keras gua pasti berkontribusi, walaupun akhirnya Allah yang nentuin semuanya.
+
+50% usaha, 100% dari Allah.
