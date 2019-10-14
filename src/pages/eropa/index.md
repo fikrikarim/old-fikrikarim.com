@@ -234,10 +234,8 @@ Sampe sekarang, gua masih ngerasa perjalanan kemarin itu kayak mimpi.
 
 Menurut gua, perjalanan kemarin itu 50% hasil dari usaha gua. Gua mulai belajar programming 4 tahun yang lalu. Sabtu minggu dipake buat belajar atau bikin proyek. Lagi kuliah pun malah belajar programming. Ilang duit Rp 10jt buat gaya-gayaan bikin startup. Sampe gua makin rajin pas dikatain sama ayah gua, "Fikri, kamu udah belajar programming lama kok belum ada hasilnya."
 
-Dan menurut gua perjalanan gua itu 100% nya lagi dari Allah. Waktu itu iseng-iseng daftar magang cuma karena lagi bosen dikelas pas kuliah. Pas dikasih tes ngoding ngerasa gampang karena udah pernah ngerjain proyek yang sama sebelumnya. Pas interview lancar karena ayah gua udah ngajarin bahasa inggris dari SD. Dan entah kenapa mereka mau nerima gua yang kuliah beda jurusan. Entah kenapa lagi mereka bangkrut tapi masih bela-belain ngegaji karyawannya.
+Tapi menurut gua perjalanan gua itu 100% nya lagi dari Allah. Waktu itu iseng-iseng daftar magang cuma karena lagi bosen dikelas pas kuliah. Pas dikasih tes ngoding ngerasa gampang karena udah pernah ngerjain proyek yang sama sebelumnya. Pas interview lancar karena ayah gua udah ngajarin bahasa inggris dari SD. Dan entah kenapa mereka mau nerima gua yang kuliah beda jurusan. Entah kenapa lagi mereka bangkrut tapi masih bela-belain ngegaji karyawannya.
 
 Banyak orang yang belajar programming jauh lebih lama dari gua, tapi belum dapet kesempatan yang sama.
 
-Kalo lu bingung 50% + 100% lebih dari 100, sama gua juga bingung, tapi pasti itung-itungannya Allah beda. Gua cuma yakin, kerja keras gua pasti berkontribusi, tapi tetep Allah yang nentuin semuanya.
-
-50% usaha, 100% dari Allah.
+Jadi ya usaha aja, trus terserah nantinya gimana.
