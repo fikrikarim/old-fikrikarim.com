@@ -169,7 +169,7 @@ Setelah perjalanan sendiri, di kota ini gua udah janjian sama Alief, temen SD. M
 
 ### Amsterdam
 
-Kami lanjut ke Amsterdam. Kami nyewa sepeda buat sehari. Menyusuri kanal-kanal kecil. Menghirup asap ganja. Naik ferry melintasi sungai. Foto-foto make sepeda. Menghirup asap ganja lagi. Sekilas ke Red Light District pas siang-siang. Terus ke Mesjid buat tobat haha.
+Kami lanjut ke Amsterdam. Kami nyewa sepeda buat sehari. Menyusuri kanal-kanal kecil. Menghirup asap ganja dari jalanan. Naik ferry melintasi sungai. Foto-foto make sepeda. Ngga sengaja ngehirup asap ganja lagi. Sekilas ke Red Light District pas siang-siang. Terus ke Mesjid buat tobat haha.
 
 ![amsterdam](amsterdam.jpg)
 
