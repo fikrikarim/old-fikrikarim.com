@@ -19,15 +19,12 @@ class Footer extends React.Component {
           <a href="/portfolio">Portfolio</a>
         </div>
         <div style={{ float: 'right' }}>
+          <a href="https://instagram.com/fikrikm">Instagram</a> &bull;{' '}
           <a href="mailto:fk.fikrikarim@gmail.com" target="_top">
             Email
           </a>{' '}
           &bull;{' '}
-          <a
-            href="https://github.com/fikrikarim"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+          <a href="https://github.com/fikrikarim" rel="noopener noreferrer">
             Github
           </a>
         </div>
