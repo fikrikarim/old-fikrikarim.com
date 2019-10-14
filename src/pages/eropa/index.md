@@ -34,7 +34,7 @@ Dari rumah ke kantor sekitar 35 menit. Naik u-bahn U3, turun Marineplatz, lanjut
 
 Gua dapet magang di startup namanya Blik. Disana kita bikin alat tracking yang di tempelin ke kontener. Target pasarnya produsen-produsen yang punya gudang. Dengan alat kita mereka lebih mudah tau kontener mereka lagi ada dimana, jumlahnya berapa, kapan pindah dari gudang satu ke gudang lainnya.
 
-Disana gua ditempatin di bagian frontend bareng Chris, anak UK yang baru beres S2 disana. Chris orangnya baik banget. Hari pertama gua disana gua diajarin dari awal tentang kode kode udah ada. Untungnya karena mereka make React, dan gua udah beberapa kali bikin proyek make React juga, jadi langsung familiar sama kode yang ada.
+Disana gua ditempatin di bagian frontend bareng Chris, anak UK yang baru beres S2 disana. Chris orangnya baik banget. Hari pertama gua disana gua diajarin dari awal tentang kode-kode yang udah ada. Untungnya karena mereka make React, dan gua udah beberapa kali bikin proyek make React juga, jadi langsung familiar sama kode yang ada.
 
 ![Meja di kantor](meja_kantor.jpg)
 
@@ -81,7 +81,7 @@ Lagipula kapan lagi ada kesempatan jalan-jalan di Eropa dan dibayar setiap bulan
 
 ## Jalan-jalan
 
-Sebelum jalan-jalan, gua mutusin buat tinggal ke Berlin selama sebulan, untuk ngehemat biaya rental, dan biar fokus Bulan Ramadhan. Disana gua tinggal bareng Affan, temen SMA gua yang lebih jayus.
+Sebelum jalan-jalan, gua mutusin buat tinggal di Berlin selama sebulan, untuk ngehemat biaya rental, dan biar fokus Bulan Ramadhan. Disana gua tinggal bareng Affan, temen SMA gua yang lebih receh.
 
 ![Suasana lebaran](suasana_lebaran.jpg)
 
@@ -161,11 +161,11 @@ Brussel, Belgia, terkenal ada markas European Union, dan ada patung bocah pipis.
 
 ### Den Haag
 
-Setelah perjalan sendiri, di kota ini gua udah janjian sama Alief, temen SD. Mantepnya Alief nih punya kenalan guru di Den Haag, jadi dapet tempat tinggal, jamuan, dan dianterin kemana-mana. Makasih ya om hehe.
+Setelah perjalanan sendiri, di kota ini gua udah janjian sama Alief, temen SD. Mantepnya Alief nih punya kenalan guru di Den Haag, jadi dapet tempat tinggal, jamuan, dan dianterin kemana-mana. Makasih ya om hehe.
 
 ![Den haag](den_haag.jpg)
 
-*Kata emak gua difoto ini gua kayak artis. Padahal jasnya dapet gratisan dari mesjid karena dingin disana dan gua cuma bawa kaos.*
+*Kata emak gua di foto ini gua kayak artis. Padahal jasnya dapet gratisan dari mesjid karena dingin disana dan gua cuma bawa kaos.*
 
 ### Amsterdam
 
@@ -234,7 +234,7 @@ Sampe sekarang, gua masih ngerasa perjalanan kemarin itu kayak mimpi.
 
 Menurut gua, perjalanan kemarin itu 50% hasil dari usaha gua. Gua mulai belajar programming 4 tahun yang lalu. Sabtu minggu dipake buat belajar atau bikin proyek. Lagi kuliah pun malah belajar programming. Ilang duit Rp 10jt buat gaya-gayaan bikin startup. Sampe gua makin rajin pas dikatain sama ayah gua, "Fikri, kamu udah belajar programming lama kok belum ada hasilnya."
 
-Tapi menurut gua perjalanan gua itu 100% nya lagi dari Allah. Waktu itu iseng-iseng daftar magang cuma karena lagi bosen dikelas pas kuliah. Pas dikasih tes ngoding ngerasa gampang karena udah pernah ngerjain proyek yang sama sebelumnya. Pas interview lancar karena ayah gua udah ngajarin bahasa inggris dari SD. Dan entah kenapa mereka mau nerima gua yang kuliah beda jurusan. Entah kenapa lagi mereka bangkrut tapi masih bela-belain ngegaji karyawannya.
+Tapi menurut gua perjalanan gua itu 100% nya lagi dari Allah. Waktu itu iseng-iseng daftar magang cuma karena lagi bosen di kelas pas kuliah. Pas dikasih tes ngoding ngerasa gampang karena udah pernah ngerjain proyek yang sama sebelumnya. Pas interview lancar karena ayah gua udah ngajarin bahasa inggris dari SD. Dan entah kenapa mereka mau nerima gua yang kuliah beda jurusan. Entah kenapa lagi mereka bangkrut tapi masih bela-belain ngegaji karyawannya.
 
 Banyak orang yang belajar programming jauh lebih lama dari gua, tapi belum dapet kesempatan yang sama.
 
