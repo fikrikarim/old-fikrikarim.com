@@ -12,9 +12,9 @@ Aku sering lupa untuk apresiasi hal yang aku miliki. Disini aku bercerita tentan
 
 Ayahku itu orang yang paling aneh sedunia yang aku tau. Jalan pikirnya bener-bener beda sama orang biasanya. 
 
-Pak Hambali lahir di Kudus. Masa kecilnya diisi dengan melihara kuda, main gundu, jualin gundu ke temennya abis menang main, melihara ayam, main di sawah. Semua orang di kampung kaget, pas kelas 6 SD, tiba-tiba ayahku kabur dari Kudus ke Jakarta.
+Pak Hambali lahir di Kudus. Masa kecilnya diisi dengan melihara kuda, main gundu, jualin gundu ke temennya abis menang main, melihara ayam, main di sawah. Semua orang di kampung kaget, pas tamat SD, tiba-tiba ayahku kabur dari Kudus ke Jakarta.
 
-Yup, ayahku lari dari rumah, ke Jakarta, pas kelas 6 SD.
+Yup, ayahku lari dari rumah, ke Jakarta setelah tamat SD.
 
 Alesan ayahku lari ngga jelas. Ayahku pernah bilang waktu itu lagi ribut sama kakekku, atau juga terinspirasi dari anak lurah yang bisa hidup di Jakarta dengan jualan koran. Apapun alesannya, ayahku kabur dari rumah cuma berbekal uang hasil jual ayam piaraannya. Ngga punya alamat tujuan. Cuma punya nama "Sulaiman," omku yang duluan ke Jakarta jadi pembantu rumah tangga.
 
@@ -22,15 +22,15 @@ Sampe di Jakarta, ayahku nanya orang di pinggir jalan, "Mas, kenal Pak Sulaiman?
 
 Yakali yah. Jakarta luas banget. Mana bisa ketemu orang dengan tau nama nya doang. Ayahku pun terlantar di Jakarta sendirian. Ngga punya kenalan. Ngga punya tempat tinggal.
 
-Entah gimana tiba-tiba ada orang yang kenal sama Pak Sulaiman. Dan ayahku dianter ke tempat beliau. Sejak itu, ayahku tinggal dan sekolah di Jakarta. Kehidupan di Jakarta pun ngga mulus mulus aja. Ayahku sering kerja sambilan jadi tukang bangunan, jadi kenek bis, jadi apapun yang penting bisa buat makan dan sekolah.
+Entah gimana tiba-tiba ada orang yang kenal sama Pak Sulaiman. Dan ayahku dianter ke tempat beliau. Sejak itu, ayahku tinggal dan sekolah di Jakarta. Kehidupan di Jakarta pun ngga mulus mulus aja. Ayahku sering kerja sambilan jadi tukang bangunan, jadi kenek bangunan, jadi apapun yang penting bisa buat makan dan sekolah.
 
 ![ayah_mudaa](ayah_muda.jpg)
 
 *Ayahku yang ditengah. Ayahku sering ngebanggain dia dari jaman dulu udah make celana dibawah lutut. Walaupun dulu dikatain aneh.*
 
-Kelakuan aneh ayahku ngga cuma lari dari kampung aja. Pas lulus sekolah ayahku dapet kerja di BUMN yang gajinya gede, yang diidam-idamkan banyak orang. Walaupun begitu, ayahku malah keluar kerja buat ngejalanin bisnis sampingan.
+Kelakuan aneh ayahku ngga cuma lari dari kampung aja. Pas lulus sekolah ayahku dapet kerja di BUMN yang gajinya gede, yang diidam-idamkan banyak orang. Walaupun begitu, ayahku malah ganti kerjaan biar bisa kuliah lebih baik.
 
-Ayahku pernah juga jadi peneliti di UI. Disekolahin sama WHO ke Australia. Udah tinggal bentar lagi lulus, malah keluar dari UI, cuma karena ngerasa kurang cocok sama pembimbingnya. Padahal kalo dilanjutin mungkin sekarang udah jadi Professor Hambali.
+Ayahku pernah juga jadi peneliti di UI. Disekolahin sama WHO ke Australia. Udah tinggal bentar lagi lulus, malah keluar dari UI, cuma karena ngerasa kurang cocok sama atasan.
 
 ![ayah_snow](ayah_snow.jpg)
 
