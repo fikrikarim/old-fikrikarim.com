@@ -40,10 +40,6 @@ Kelakuan yang rada anehnya pun diterapin pas ngedidik anak-anaknya.
 
 Prinsip ayahku, kalo untuk belajar, uang berapapun boleh dikeluarin. Mau jual tanah, gadai emas, harus dilakuin kalo untuk pendidikan. Sedangkan kalo buat beli baju, 50rb aja udah kemahalan. Contoh konkritnya, dua tahun lalu aku dan Jamal gaya-gayaan buat bikin startup, dan butuh uang 10jt. Kata ibuku ngapain 10jt, mendingan 1jt aja dulu. Tapi ayahku tetep ngebelaain buat nyediain uang 10jt, karena ayahku yakin itu cara yang terbaik buat kami belajar. Beberapa hari setelahnya aku baru tau kalo ternyata gelang emas ibuku harus digadai buat dapetin uang segitu haha.
 
-![mom_and_dad_2](mom_and_dad_2.jpg)
-
-*Ayah dan ibu. Salah satu hobi ayahku itu make baju robek.*
-
 Dari dulu saya dan Jamal selalu disuruh untuk belajar yang lebih dari yang lain. Kalo misalkan SD, kalo bisa udah ngerti pelarajan SMP. Pas SMP, kalo bisa udah ngerti pelajaran SMA. Pas SMA, kalo bisa udah ngerti pelajaran kuliah. Nah kalo kuliah?
 
 Makanya sekarang walaupun udah kuliah, saya masih kadang-kadang di suruh ayah saya keluar kuliah. Bukannya ayahku ngga suka orang kuliah. Ayahku cuma mau ngajarin, jangan sampe aku ngelakuin sesuatu karena ikut orang-orang lain. Tapi harus ngelakuin sesuatu karena emang sesuatu itu yang menurut kita terbaik untuk dilakukan.
