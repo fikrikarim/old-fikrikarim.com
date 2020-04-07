@@ -66,15 +66,7 @@ Nasihat yang menurut gua bener adalah:
 
 "Tentuin hal yang menurut lu baik, dan kerja sangat keras biar lu bisa menikmatin hal itu."
 
-Passion is about Joko and Jake  
-Passion is about Joko Jake  
-Passion is a Joko Jake  
-Passion is a Joke
-
 EDIT:
 Sebenernya poin yang saya berusaha gua sampaikan di tulisan ini cuma gini:
 
 Banyak orang yang nunggu passion dateng, baru kerja keras mengerjakan suatu hal. Passion ngga bakal dateng kalo gitu. Menurut gua yang bener itu, kita harus kerja keras dulu, baru nanti pelan pelan passion kita bakal muncul, dan itu akan membuat kita semakin semangat mengerjakan hal itu.
-
-EDIT2:
-Kalimat yang lebih tepat itu, "Passion is overrated."
